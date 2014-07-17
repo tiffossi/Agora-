@@ -1,0 +1,2 @@
+$ cat .gitignore
+/functions/functions_bbdd.php
